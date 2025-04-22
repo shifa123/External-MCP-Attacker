@@ -1,0 +1,8 @@
+"mcpServers": {
+    "ExternalAttacker-MCP": {
+        "command": "python",
+        "args": [
+            "/Users/rohit/AI/ExternalAttacker-MCP/ExternalAttacker-MCP.py"
+        ]
+    }
+}
